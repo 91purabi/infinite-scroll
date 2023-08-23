@@ -1,0 +1,18 @@
+/* styles.css */
+
+#content-container {
+    height: 400px;
+    overflow-y: scroll;
+    border: 1px solid #ccc;
+}
+
+#content-list {
+    padding: 0;
+    list-style: none;
+}
+
+#loading-indicator {
+    display: none;
+    text-align: center;
+    padding: 10px;
+}
